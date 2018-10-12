@@ -1,0 +1,20 @@
+{
+
+  "manifest_version":2 ,
+  "name": "Instranslation",
+  "version": "1.0",
+  "description": "Traduce el texto seleccionado dentro de una pagina web",
+  "author": "EzequielMonforte",
+  "icons":{
+  	"16": "Res/Icons/icon16.png",
+  	"48": "Res/Icons/icon48.png",
+  	"128": "Res/Icons/icon128.png"
+  },
+  "browser_action": {
+  	"default_title": "Instranslation",
+  	"default_icon": "Res/Icons/icon.png",
+  	"default_popup": "popup.html"
+  }
+  
+}
+
